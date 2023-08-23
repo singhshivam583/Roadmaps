@@ -91,6 +91,8 @@
 - [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
 - [Namaste Javascript - Youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Learn By reading blogs](https://nikk.hashnode.dev/series/javascript-series)
+- [Code Aur Chai - Youtube](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+- [Hitesh Chaudhary - Youtube](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 
 ### Understanding JavaScript
 
