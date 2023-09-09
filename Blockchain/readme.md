@@ -98,6 +98,7 @@
 -  [The Graph](https://thegraph.com/docs/en/)
 -  [Scaffold-Ethereum](https://docs.scaffoldeth.io/scaffold-eth/)
 -  [Alchemy Dapp Store](https://www.alchemy.com/dapps)
+-  [Build Bear Lab](https://www.buildbear.io/)
  
  ### SDKs
 - [Third Web](https://portal.thirdweb.com/)
